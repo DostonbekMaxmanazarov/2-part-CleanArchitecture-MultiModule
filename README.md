@@ -7,11 +7,12 @@
 
 :relaxed: ***Multi module ning foydali tomonlari!***
 
-Modullashtirish orqali projectni ko'plab kichik mustaqil modullarga ajratish imkonini beradi. 
+- Modullashtirish orqali projectni ko'plab kichik mustaqil modullarga ajratish imkonini beradi. Bu kodni saqlash, yangilash, o'zgartirishni osonlashtiradi, shuningdek uni testdan o'tkazishni osonlashtirishi mumkin.
 - (UI, Business, Data va boshqa) concernlarni yaxshi ajratish
-- Projectdan qayta foydalanish
-- Katta jamoa a'zolari birgalikda ishlashi osonroq
-- Build time ning tezroq bo'lishi
+- Projectdan qayta foydalanish, multimodule kod yordamida biz kodni bir nechta projectda yoki modullarda osongina qayta ishlatishimiz mumkin, bu vaqtni tejash va xatolik xavfini kamaytirish imkonini beradi.
+- Katta jamoa dasturchilari birgalikda ishlashi osonlashtiradi, chunki ular bir-birining kodlariga aralashmasdan turli modullarda ishlashi mumkin.
+- Build time ning tezroq bo'lishi, multimodule yordamida biz butun projectni qayta build qilish o'rniga faqat o'zgargan modullarni qayta build qilishimiz mumkin. Bu katta loyihalar uchun build vaqtini sezilarli darajada qisqartirishi mumkin.
+- Soddalashtirilgan dependencylarni boshqarish: Multimodule bizga dependencylarni yanada samarali boshqarishga yordam beradi.
 
 :monocle_face: ***Barcha projectlarimizni modulelashtirishimiz kerakmi?***
 - Agar biz kichik project ustida ishlayotgan bo'lsak, va kichik darajadagi xususiyatlarga ega bo'lgan project bo'lsa, va tezroq bitirishimiz kerak bo'lsa, multimoduledan foydalanmaganimiz maqul.
@@ -21,6 +22,8 @@ Chunki hamma narsani sozlash va saqlash uchun ko'proq vaqt kerak bo'ladi, lekin 
 - Boshidan katta bo'lgan va kelajakda yanada kengayishi mumkin bo'lgan projectlarda.
 - Boshqa loyihalardagi bazi modullarni yoki funksiyalarni ishlatishimiz kerakligini bilganimizda.
 - Agar bitta projectda 3 tadan ortiq dasturchilar ishlaganda.
+
+Umuman olganda, Android loyihamizda multimoduledan foydalanish yanada tartibli va samarali, shuningdek kodni yaxshiroq qayta ishlatishga olib keladi.
 
 **```Eslatma!```**
 Ushbu proektimda faqatgina layerlarga ajratilgan va multi modulega o'tkazilgan, bunda classlar qo'lda kiritilgan. Dependency injection frameworklaridan va design patternlar(Mvvm, Mvp...) dan foydalanilmagan, sababi clean architecturani tushunish uchun bu yo'lni tanlaganman, chunki dependencylarni qo'lda kiritish qanchalik noqulat va murakkablashib ketishini ko'rishimiz mumkin, bu yo'l orqali dependency injection texnologiyalarni yaxshi tushunib olishimizni nazarda tutganman, Bunda design patternlarning ham proektimizdagi o'rnini bilib olishimiz mumkin. Clean architectura uchun kerakli bo'lgan texnologiyalarni qadam va qadam github repositoryamdan ko'rishingiz mumkin.
