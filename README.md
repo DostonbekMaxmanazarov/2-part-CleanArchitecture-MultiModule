@@ -14,6 +14,13 @@ Modullashtirish orqali projectni ko'plab kichik mustaqil modullarga ajratish imk
 - Build time ning tezroq bo'lishi
 
 :monocle_face: ***Barcha projectlarimizni modulelashtirishimiz kerakmi?***
+Agar biz kichik project ustida ishlayotgan bo'lsak, va kichik darajadagi xususiyatlarga ega bo'lgan project bo'lsa, va tezroq bitirishimiz kerak bo'lsa, multimoduledan foydalanmaganimiz maqul.
+Chunki hamma narsani sozlash va saqlash uchun ko'proq vaqt kerak bo'ladi, lekin biz projectni tezroq ishga tushirishimiz kerak. Shuningdek project ustida ishlayotgan 1 yoki 2 Android dasturchisilaridan iborat jamoalar uchun bu ortiqcha ish bo'lishi mumkin. 
+
+:monocle_face: Shuning uchun uni qachon ishlatish kerak?
+- Boshidan katta bo'lgan va kelajakda yanada kengayishi mumkin bo'lgan projectlarda.
+- Boshqa loyihalardagi bazi modullarni yoki funksiyalarni ishlatishimiz kerakligini bilganimizda.
+- Agar bitta projectda 3 tadan ortiq dasturchilar ishlaganda.
 
 **```Eslatma!```**
 Ushbu proektimda faqatgina layerlarga ajratilgan va multi modulega o'tkazilgan, bunda classlar qo'lda kiritilgan. Dependency injection frameworklaridan va design patternlar(Mvvm, Mvp...) dan foydalanilmagan, sababi clean architecturani tushunish uchun bu yo'lni tanlaganman, chunki dependencylarni qo'lda kiritish qanchalik noqulat va murakkablashib ketishini ko'rishimiz mumkin, bu yo'l orqali dependency injection texnologiyalarni yaxshi tushunib olishimizni nazarda tutganman, Bunda design patternlarning ham proektimizdagi o'rnini bilib olishimiz mumkin. Clean architectura uchun kerakli bo'lgan texnologiyalarni qadam va qadam github repositoryamdan ko'rishingiz mumkin. *
