@@ -23,7 +23,7 @@ Chunki hamma narsani sozlash va saqlash uchun ko'proq vaqt kerak bo'ladi, lekin 
 - Boshqa loyihalardagi bazi modullarni yoki funksiyalarni ishlatishimiz kerakligini bilganimizda.
 - Agar bitta projectda 3 tadan ortiq dasturchilar ishlaganda.
 
-Umuman olganda, Android loyihamizda multimoduledan foydalanish yanada tartibli va samarali, shuningdek kodni yaxshiroq qayta ishlatishga olib keladi.
+> Umuman olganda, Android loyihamizda multimoduledan foydalanish yanada tartibli va samarali, shuningdek kodni yaxshiroq qayta ishlatishga olib keladi.
 
 **```Eslatma!```**
 Ushbu proektimda faqatgina layerlarga ajratilgan va multi modulega o'tkazilgan, bunda classlar qo'lda kiritilgan. Dependency injection frameworklaridan va design patternlar(Mvvm, Mvp...) dan foydalanilmagan, sababi clean architecturani tushunish uchun bu yo'lni tanlaganman, chunki dependencylarni qo'lda kiritish qanchalik noqulat va murakkablashib ketishini ko'rishimiz mumkin, bu yo'l orqali dependency injection texnologiyalarni yaxshi tushunib olishimizni nazarda tutganman, Bunda design patternlarning ham proektimizdagi o'rnini bilib olishimiz mumkin. Clean architectura uchun kerakli bo'lgan texnologiyalarni qadam va qadam github repositoryamdan ko'rishingiz mumkin.
