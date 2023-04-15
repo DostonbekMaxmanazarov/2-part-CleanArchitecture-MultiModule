@@ -1,5 +1,5 @@
 # 2-Part. MultiModule
-#### *```Separation of concerns, Recommended app architecture and MultiModule. This project is simply a user authorization project.```*
+#### *Separation of concerns, Recommended app architecture and MultiModule. This project is simply a user authorization project.*
 -----------------------------
 
 #### *Siz ko'rib turgan projectimda, authorization uchun simple project qilingan. Ma'lumotlarni saqlash uchun SharedPreferencedan foydalanilgan. Bunda oddiygina yondashilgan, Design patternlar va Dependency Injection framworklaridan foydalanilmasdan clean architecturaga kirish qilganman, chunki vazifamiz layerlarga ajratish va projectni multi modulega o'tkazish.*
