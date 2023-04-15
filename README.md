@@ -18,7 +18,7 @@
 - Agar biz kichik project ustida ishlayotgan bo'lsak, va kichik darajadagi xususiyatlarga ega bo'lgan project bo'lsa, va tezroq bitirishimiz kerak bo'lsa, multimoduledan foydalanmaganimiz maqul.
 Chunki hamma narsani sozlash va saqlash uchun ko'proq vaqt kerak bo'ladi, lekin biz projectni tezroq ishga tushirishimiz kerak. Shuningdek project ustida ishlayotgan 1 yoki 2 Android dasturchisilaridan iborat jamoalar uchun bu ortiqcha ish bo'lishi mumkin. 
 
-:monocle_face: Shuning uchun uni qachon ishlatish kerak?
+:monocle_face: ***Shuning uchun uni qachon ishlatish kerak?***
 - Boshidan katta bo'lgan va kelajakda yanada kengayishi mumkin bo'lgan projectlarda.
 - Boshqa loyihalardagi bazi modullarni yoki funksiyalarni ishlatishimiz kerakligini bilganimizda.
 - Agar bitta projectda 3 tadan ortiq dasturchilar ishlaganda.
