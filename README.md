@@ -5,7 +5,8 @@
 
 <img width="360" height="480" alt="Screen Shot 2023-04-15 at 12 39 23" src="https://user-images.githubusercontent.com/77477995/232196444-59a98ce5-09ec-40da-92d2-13bdc71fe96c.png"> <img hspace="20" width="360" height="480" alt="Screen Shot 2023-04-15 at 15 39 23" src="https://user-images.githubusercontent.com/77477995/232209051-b7a4d0ab-223e-4063-b4d0-6a02d33a270c.png">
 
-**Multi modulening foydali tomonlari!**
+***Multi modulening foydali tomonlari!***
+
 Modullashtirish orqali projectni ko'plab kichik mustaqil modullarga ajratish imkonini beradi. 
 - (UI, Business, Data va boshqa) concernlarni yaxshi ajratish
 - Projectdan qayta foydalanish
