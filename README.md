@@ -14,7 +14,7 @@ Modullashtirish orqali projectni ko'plab kichik mustaqil modullarga ajratish imk
 - Build time ning tezroq bo'lishi
 
 :monocle_face: ***Barcha projectlarimizni modulelashtirishimiz kerakmi?***
-Agar biz kichik project ustida ishlayotgan bo'lsak, va kichik darajadagi xususiyatlarga ega bo'lgan project bo'lsa, va tezroq bitirishimiz kerak bo'lsa, multimoduledan foydalanmaganimiz maqul.
+- Agar biz kichik project ustida ishlayotgan bo'lsak, va kichik darajadagi xususiyatlarga ega bo'lgan project bo'lsa, va tezroq bitirishimiz kerak bo'lsa, multimoduledan foydalanmaganimiz maqul.
 Chunki hamma narsani sozlash va saqlash uchun ko'proq vaqt kerak bo'ladi, lekin biz projectni tezroq ishga tushirishimiz kerak. Shuningdek project ustida ishlayotgan 1 yoki 2 Android dasturchisilaridan iborat jamoalar uchun bu ortiqcha ish bo'lishi mumkin. 
 
 :monocle_face: Shuning uchun uni qachon ishlatish kerak?
